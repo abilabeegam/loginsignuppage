@@ -1,0 +1,43 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* .bg-light{
+background-color: transparent !important;
+} */
+.navbar {
+    background-color: transparent !important;
+}
+.carousel-item{
+    
+    height: 100vh;
+    min-height: 300px;
+}
+.carousel-caption{
+bottom: 220px;
+}
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-decoration: wavy;
+    background:rgba(6, 54, 6, 0.514);
+}
+.carousel-caption p{
+    text-transform: uppercase;
+    text-decoration: none;
+    background:rgba(6, 54, 6, 0.514);
+}
+
+.navbar-nav a{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    background: transparent;
+}
+.navbar-light .navbar-brand{
+    color: black;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
